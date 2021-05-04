@@ -1,0 +1,5 @@
+.idea/
+__pycache__
+_tests/.cache/
+/data
+processed_incident_list.log
